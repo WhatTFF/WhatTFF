@@ -50,6 +50,6 @@ I'm a 17-year-old developer from Norway building open-source desktop and mobile 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhatTFF&show_icons=true&theme=radical&hide_border=true" alt="Emin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhatTFF&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=WhatTFF&show_icons=true&theme=radical&hide_border=true" alt="Emin's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=WhatTFF&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
