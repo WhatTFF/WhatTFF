@@ -53,3 +53,7 @@ I'm a 17-year-old developer from Norway building open-source desktop and mobile 
   <img src="https://github-stats-extended.vercel.app/api?username=WhatTFF&show_icons=true&theme=radical&hide_border=true" alt="Emin's GitHub Stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=WhatTFF&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://ghstats.dev/api/sparkline?username=WhatTFF&days=30" alt="Last 30 Days Sparkline" />
+</p>
